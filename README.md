@@ -1,2 +1,2 @@
 # computer-scientists
-My notes for learning to become a computer scientist.
+My notes for learning about the world of data.
